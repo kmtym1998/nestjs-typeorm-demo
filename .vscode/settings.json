@@ -1,0 +1,11 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "name": "nestjs-typeorm-demo",
+      "database": "${workspaceFolder:nestjs-typeorm-demo}/data/dev.sqlite"
+    }
+  ],
+  "sqltools.useNodeRuntime": true
+}
